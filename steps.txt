@@ -1,0 +1,4 @@
+Step 1: Initialized an empty nextjs project 
+Step 2: Changed the App's Metadata 
+Step 3: Installed Eslint and Prettier package for better code formatting 
+Step 4: Installed Talilwind CSS
